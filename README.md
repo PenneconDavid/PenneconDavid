@@ -54,7 +54,7 @@
 
 ### 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/davidseibold/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidseibold/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2C2C2C?style=for-the-badge&logo=web&logoColor=white)](https://daveyrockets.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.seibold@icloud.com)
 
