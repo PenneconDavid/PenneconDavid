@@ -1,8 +1,8 @@
-# 👨‍🚀 Davey Rockets | Full-Stack Explorer
+# 👨‍🚀 Davey Rockets | Full-Stack Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square)
 
-🚀 Welcome to my little corner of the coding universe! I’m Davey, a **full-stack engineer** with a passion for launching creative and powerful web apps into the digital galaxy.
+🚀 Welcome to my little corner of the coding universe! I’m Dave, a **full-stack engineer** with a passion for launching creative and powerful web apps into the digital galaxy.
 
 🌎 I’m currently working on [DishSwap](https://github.com/PenneconDavid/DishSwap) — a recipe-sharing platform with an **anime-inspired UI** and a focus on connecting home chefs through delicious food.
 
@@ -46,8 +46,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Davey Rockets's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&hide_border=true&theme=radical&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PenneconDavid&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Davey Rockets's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenneconDavid&layout=compact&hide_border=true&theme=radical&langs_count=10"/>
 </p>
 
 ---
