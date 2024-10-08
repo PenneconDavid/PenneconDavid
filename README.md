@@ -1,6 +1,6 @@
 # 👨‍🚀 Davey Rockets | Full-Stack Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=PenneconDavid&style=flat-square)
 
 🚀 Welcome to my little corner of the coding universe! I’m Dave, a **full-stack engineer** with a passion for launching creative and powerful web apps into the digital galaxy.
 
@@ -12,7 +12,8 @@
 - 🔭 Exploring the cosmos of full-stack development using **React**, **Node.js**, **MongoDB**, and more.
 - 🎨 Obsessed with bringing creativity into code—whether that’s fun **UI/UX** designs or interesting **projects**.
 - 🌱 Learning **Next.js**, **TypeScript**, and all the cool modern frameworks you can think of.
-- 🍣 I'm also a big fan of food and travel—catch me in Japan trying all the sushi!
+- 🍣 Big fan of food and travel—catch me in Japan trying all the sushi!
+- 🐶 Also passionate about dogs, video games, and baseball.
 
 ---
 
@@ -25,6 +26,17 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidseibold/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C2C2C?style=for-the-badge&logo=web&logoColor=white)](https://daveyrockets.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.seibold@icloud.com)
 
 ---
 
@@ -48,21 +60,15 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PenneconDavid&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Davey Rockets's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenneconDavid&layout=compact&hide_border=true&theme=radical&langs_count=10"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=PenneconDavid&theme=radical&hide_border=true" alt="Davey's Coding Streak"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PenneconDavid&theme=radical" alt="GitHub Summary"/>
 </p>
-
----
-
-### 📫 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidseibold/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C2C2C?style=for-the-badge&logo=web&logoColor=white)](https://daveyrockets.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.seibold@icloud.com)
 
 ---
 
 ### 🎉 Fun Fact
 
-- 🧑‍🎤 I sometimes code to lo-fi anime beats and imagine I'm building my own space station!
+- 🧑‍🎤 I sometimes code to lo-fi beats late at night, that's when I do my best work!
 
 ---
 
