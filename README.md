@@ -2,18 +2,20 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PenneconDavid&style=flat-square)
 
-🚀 Welcome to my little corner of the coding universe! I’m Dave, a **full-stack engineer** with a passion for launching creative and powerful web apps into the digital galaxy.
+🚀 Welcome to my coding universe! I’m Dave, a **full-stack engineer** with a mission to craft creative, impactful web applications that connect and inspire.
 
-🌎 I’m currently working on [DishSwap](https://github.com/PenneconDavid/DishSwap) — a recipe-sharing platform with an **anime-inspired UI** and a focus on connecting home chefs through delicious food.
+🌎 Recently launched [DishSwap](https://github.com/PenneconDavid/DishSwap) — a recipe-sharing platform with an **anime-inspired UI** that brings home chefs together through their love of food.
+
+---
 
 ### 🚀 About Me
 
-- 💼 Bootcamp Grad: I'm taking the coding bootcamp road to level up my dev skills!
-- 🔭 Exploring the cosmos of full-stack development using **React**, **Node.js**, **MongoDB**, and more.
-- 🎨 Obsessed with bringing creativity into code—whether that’s fun **UI/UX** designs or interesting **projects**.
-- 🌱 Learning **Next.js**, **TypeScript**, and all the cool modern frameworks you can think of.
-- 🍣 Big fan of food and travel—catch me in Japan trying all the sushi!
-- 🐶 Also passionate about dogs, video games, and baseball.
+- 💼 Bootcamp Grad: Continuously leveling up through hands-on learning and real-world projects.
+- 🔭 Passionate about building scalable, user-friendly full-stack applications with **React**, **Node.js**, **MongoDB**, and beyond.
+- 🌱 Exploring the world of **web3 development**, learning **Solidity**, and diving into concepts like **NFT minting** and decentralized apps.
+- 🎨 Dedicated to creative and aesthetic design—whether it’s in **UI/UX** or crafting innovative digital experiences.
+- 🍣 Big fan of food, travel, and culture—always on the lookout for my next sushi stop.
+- 🐶 Lover of dogs, video games, and baseball.
 
 ---
 
@@ -25,11 +27,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -47,16 +49,17 @@
 
 ### 🛠️ Currently Building
 
-- **DishSwap** 🍜: A recipe-sharing platform that blends **anime aesthetics** and **social cooking**. Check it out: [DishSwap](https://github.com/PenneconDavid/DishSwap)!
-- **Portfolio** 🌐: My personal developer portfolio, where you can see more about me and the things I build. Live at: [daveyrockets.me](https://daveyrockets.me).
+- **DishSwap** 🍜: Constantly improving and iterating on this anime-inspired recipe-sharing platform. Live project: [DishSwap](https://github.com/PenneconDavid/DishSwap)!
+- **Portfolio** 🌐: Expanding my personal developer portfolio, showcasing projects, skills, and accomplishments at [daveyrockets.me](https://daveyrockets.me).
+- **Web3 Projects** 🌌: Building decentralized applications, experimenting with smart contracts, and minting NFTs as I learn **Solidity**.
 
 ---
 
 ### 🎯 Goals
 
-- 💡 Keep exploring **full-stack** and **devops** topics.
-- 🚀 Launch more creative projects to learn from and to share with others.
-- 🌍 Collaborate with other developers to create awesome stuff!
+- 🛠 Master **web3 technologies** and build my first fully-functional decentralized app.
+- 🚀 Launch unique projects that combine my love for creativity, technology, and design.
+- 🌍 Collaborate with other developers to innovate and grow in the dev community.
 
 ---
 
@@ -73,8 +76,8 @@
 
 ### 🎉 Fun Fact
 
-- 🧑‍🎤 I sometimes code to lo-fi beats late at night, that's when I do my best work!
+- 🧑‍🎤 I code best when jamming to lo-fi beats late at night.
 
 ---
 
-*P.S.: Want to leave feedback? Feel free to submit a PR or open an issue. I'm always open to connecting with fellow devs!* 🚀
+*P.S.: Feel free to leave feedback or connect—I’m always up for collaborating and learning!* 🚀
