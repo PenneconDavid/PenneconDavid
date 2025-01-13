@@ -15,7 +15,7 @@
 - 🌱 Exploring the world of **web3 development**, learning **Solidity**, and diving into concepts like **NFT minting** and decentralized apps.
 - 🎨 Dedicated to creative and aesthetic design—whether it’s in **UI/UX** or crafting innovative digital experiences.
 - 🍣 Big fan of food, travel, and culture—always on the lookout for my next sushi stop.
-- 🐶 Lover of dogs, video games, and baseball.
+- 🐶 Lover of dogs, video games, and sports!
 
 ---
 
