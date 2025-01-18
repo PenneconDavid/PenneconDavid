@@ -57,7 +57,7 @@
 
 ### 🎯 Goals
 
-- 🛠 Master **web3 technologies** and build my first fully-functional decentralized app.
+- 🛠 Master **web3 technologies** and continue to build fully-functional decentralized apps.
 - 🚀 Launch unique projects that combine my love for creativity, technology, and design.
 - 🌍 Collaborate with other developers to innovate and grow in the dev community.
 
