@@ -13,7 +13,7 @@
 - 💼 Bootcamp Grad: Continuously leveling up through hands-on learning and real-world projects. Metana web2 graduate.
 - 🔭 Passionate about building scalable, user-friendly full-stack applications with **React**, **Node.js**, **MongoDB**, and beyond.
 - 🌱 Exploring the world of **web3 development**, learning **Solidity**, and diving into concepts like **NFT minting** and decentralized apps.
-- 🎨 Dedicated to creative and aesthetic design—whether it’s in **UI/UX** or crafting innovative digital experiences.
+- 🎨 Dedicated to creative and aesthetic design—whether it’s in **UI/UX** or crafting innovative digital experiences, but capable of traditional styles too.
 - 🐶 Lover of dogs, video games, and sports!
 
 ---
