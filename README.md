@@ -58,7 +58,7 @@
 
 - 🛠 Master **web3 technologies** and continue to build fully-functional decentralized apps.
 - 🚀 Launch unique projects that combine my love for creativity, technology, and design.
-- 🌍 Collaborate with other developers to innovate and grow in the dev community.
+- 🌍 Collaborate with other developers to network, innovate, and grow in the dev community.
 
 ---
 
