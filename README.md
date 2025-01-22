@@ -65,9 +65,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PenneconDavid&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Davey Rockets's GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=PenneconDavid&theme=radical&hide_border=true" alt="Davey's Coding Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PenneconDavid&theme=radical" alt="GitHub Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PenneconDavid&show_icons=true&hide_border=true&count_private=true&theme=neon-dark" alt="Davey Rockets's GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=PenneconDavid&theme=neon-dark&hide_border=true" alt="Davey's Coding Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PenneconDavid&theme=neon-dark" alt="GitHub Summary"/>
 </p>
 
 ---
