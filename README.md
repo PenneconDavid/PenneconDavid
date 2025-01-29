@@ -74,12 +74,6 @@
 
 ---
 
-### 🎉 Fun Fact
-
-- 🧑‍🎤 I code best when jamming to lo-fi beats late at night.
-
----
-
 *P.S.: Feel free to leave feedback or connect—I’m always up for collaborating and learning!* 🚀
 
 Support me here 👉 daveyrockets.eth
