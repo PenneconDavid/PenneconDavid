@@ -4,8 +4,6 @@
 
 🚀 Hello fellow coders and welcome to my coding universe! I’m Dave, a **full-stack web3 engineer** with a mission to craft creative, impactful web applications that connect and inspire.
 
-🌎 Recently launched [DishSwap](https://github.com/PenneconDavid/DishSwap) — a recipe-sharing platform with an exciting, vibrant UI that brings home chefs together through their love of food and proven recipes.
-
 
 
 ---
