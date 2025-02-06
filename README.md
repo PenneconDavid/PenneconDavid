@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PenneconDavid&style=flat-square)
 
-🚀 Hello fellow coders and welcome to my coding universe! I’m Dave, a **full-stack web3 engineer** with a mission to craft creative, impactful web applications that connect and inspire.
+🚀 Hello fellow coders and welcome to my coding universe!! I’m Dave, a **full-stack web3 engineer** with a mission to craft creative, impactful web applications that connect and inspire.
 
 
 
