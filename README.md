@@ -48,7 +48,7 @@
 
 - **DishSwap** 🍜: Constantly improving and iterating on this anime-inspired recipe-sharing platform. Live project: [DishSwap](https://dishswap.vercel.app)!
 - **Portfolio** 🌐: Expanding my personal developer portfolio, showcasing projects, skills, and accomplishments at [daveyrockets.me](https://daveyrockets.me).
-- **Web3 Projects** 🌌: Building decentralized applications, experimenting with smart contracts, and minting NFTs as I learn and master **Solidity**.
+- **Web3 Projects** 🌌: Building decentralized applications, experimenting with smart contracts, and minting NFT's as I learn and master **Solidity**.
 
 ---
 
