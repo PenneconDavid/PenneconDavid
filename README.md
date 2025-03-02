@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 💼 Bootcamp Grad: Continuously leveling up through hands-on learning and real-world projects. Metana web2 graduate (web3 graduation coming Spring '25!).
+- 💼 Bootcamp Grad: Continuously leveling up through hands-on learning and real-world projects. Metana web2 graduate (web3 graduation coming soon!).
 - 🔭 Passionate about building scalable, user-friendly full-stack applications with **React**, **Next.js**, **Node.js**, **MongoDB**, and beyond.
 - 🌱 Exploring the world of **web3 development**, learning **Solidity**, and diving into concepts like **NFT minting** and decentralized apps.
 
