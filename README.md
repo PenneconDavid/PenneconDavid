@@ -65,7 +65,7 @@ Full-stack blockchain developer with extensive expertise in Solidity, React, Nex
   Web3 app demonstrating minting, forging, burning, and trading of NFTs with ERC-1155 contracts deployed on Polygon Amoy.
 
 * [**DishSwap**](https://dishswap.vercel.app/)
-  Anime-inspired platform for global recipe discovery, sharing, and interaction.
+  Vibrantly-colored platform for global recipe discovery, sharing, and interaction.
 
 * [**Personal Portfolio**](https://daveyrockets.me/)
   Portfolio showcasing JWT authentication, protected routes, blog functionality, backend processing, responsive design, and Tailwind CSS.
