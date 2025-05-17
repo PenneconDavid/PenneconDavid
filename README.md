@@ -14,7 +14,7 @@ Full-stack blockchain developer with extensive expertise in Solidity, React, Nex
 
 ## Professional Experience
 
-* **Director of M\&A | VetEvolve** *(Nov 2024 - Present)*
+* **Director of M\&A | VetEvolve** *(May 2024 - Present)*
 
   * Lead detailed business valuation analyses, resulting in improved EBITDA accuracy.
   * Manage end-to-end transaction lifecycles, enhancing strategic investment decisions.
