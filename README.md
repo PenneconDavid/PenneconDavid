@@ -30,7 +30,7 @@ Full-stack blockchain developer with extensive expertise in Solidity, React, Nex
 
 ## Education
 
-* **Full Stack Web3 Solidity Bootcamp** *(Metana, May 2024 - Present)*
+* **Full Stack Web3 Solidity Bootcamp** *(Metana, May 2024 - June 2025)*
 * **BS, Business Administration** *(California Lutheran University, 2015)*
 
 ---
