@@ -61,7 +61,7 @@ Full-stack blockchain developer with extensive expertise in Solidity, React, Nex
 
 ## Featured Projects
 
-* [**Odd Scout**](https://odd-scout.vercel.app/)
+* [**OddScout**](https://odd-scout.vercel.app/)
   OddsScout is a comprehensive tool for comparing MLB betting odds between traditional sportsbooks and Polymarket's prediction markets. It provides real-time odds comparison, arbitrage detection, and detailed market analysis.
 
 * [**Bulldog NFT Forge**](https://bulldog-nft.vercel.app/)
