@@ -59,6 +59,35 @@ Full-stack blockchain developer with extensive expertise in Solidity, React, Nex
 
 ---
 
+## Recent Projects
+
+### DAO Gas Reimbursement Paymaster (ERC-4337)
+
+* **Role:** Smart Contract + Full-Stack Developer
+* **Stack:** Solidity, Foundry, OpenZeppelin, ERC-4337 (EntryPoint v0.8), TypeScript, Next.js, viem, wagmi, GitHub Actions, Slither, Solhint
+* **One-liner:** A verifying paymaster that sponsors gas for allowlisted smart accounts with monthly budgets, safety caps, and optional SBT receipts—plus a dashboard and reproducible local demo.
+* **On-chain:**
+  * BudgetPaymaster: per-sender monthly budgets, sender allowlist, per-op and fee caps, global cap, UTC month rollover, deposit/stake helpers, optional ReceiptNFT mint in postOp.
+  * ReceiptNFT (SBT): ERC-721 with ERC-5192 "locked" semantics, one receipt per sponsored op.
+  * GovActions: tiny target contract to demo allowlisting and sponsored calls.
+* **Off-chain / Web:**
+  * Next.js dashboard (wagmi/viem): view budget, call demo actions, preview AA userOps.
+  * Scripts + Makefile: deploy, stake/deposit, seed budgets, set caps/global cap, local end-to-end demo.
+  * CI: forge build/test, coverage (lcov), gas snapshots, Slither, Solhint, web build/lint.
+* **How it works:** Validates UserOperations against sender budget and safety caps during validatePaymasterUserOp, then debits actual gas costs in postOp. Budgets reset at UTC month boundaries. Each sponsored op can mint a soulbound receipt.
+
+### Ball Knower
+
+* **What it is:** Next.js app that helps fantasy managers plan and draft. Blends MLB season lines, user-uploaded projections, and Baseball Savant skill metrics (EV, Barrel%, xwOBA) into a pgvector-backed RAG pipeline, then streams GPT answers with citations, player comparisons, and a cheat-sheet generator for custom scoring. Hybrid retrieval (vector + trigram), Redis caching, and unit/golden tests keep it fast and trustworthy.
+* **Tech stack:** Next.js 14 (TS, App Router), Tailwind/shadcn, OpenAI (chat + embeddings), Prisma, Supabase Postgres + pgvector, Upstash Redis, Vitest, pino.
+* **Key features:**
+  * CSV projection upload, merge, anomaly flags
+  * Skill Cards from Statcast; season/intent-aware retrieval
+  * Streaming chat with citations; compare view; cheat-sheet generator
+  * ETL + embedding jobs, rate limiting, logging, and golden tests
+
+---
+
 ## Featured Projects
 
 * [**OddScout**](https://odd-scout.vercel.app/)
