@@ -43,6 +43,8 @@ Full-stack blockchain developer with extensive expertise in Solidity, React, Nex
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFD700?style=for-the-badge\&logo=hardhat\&logoColor=black)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge\&logo=ethereum\&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge\&logo=ipfs\&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge\&logo=openzeppelin\&logoColor=white)
+![ERC-4337](https://img.shields.io/badge/ERC--4337-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
 
 **Full-Stack Development:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
@@ -50,12 +52,35 @@ Full-stack blockchain developer with extensive expertise in Solidity, React, Nex
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![viem](https://img.shields.io/badge/viem-000000?style=for-the-badge)
+![wagmi](https://img.shields.io/badge/wagmi-000000?style=for-the-badge)
 
 **Databases & DevOps:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+## Security & CI
+
+![Slither](https://img.shields.io/badge/Slither-Static%20Analysis-2E3440?style=for-the-badge)
+![Solhint](https://img.shields.io/badge/Solhint-Solidity%20Linter-2E3440?style=for-the-badge)
+![CI](https://img.shields.io/badge/GitHub%20Actions-CI%20Gates-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Coverage](https://img.shields.io/badge/Coverage-lcov-green?style=for-the-badge)
+
+* CI gates: build, tests, coverage (lcov), gas snapshots on PRs.
+* Security: Slither static analysis; linting with Solhint.
+* Artifacts: coverage and gas reports uploaded in CI.
+
+---
+
+## Areas of Expertise
+
+* Account Abstraction (ERC-4337)
+* Paymasters (verifying/sponsoring)
+* Soulbound Tokens (ERC-5192)
 
 ---
 
@@ -96,8 +121,9 @@ Full-stack blockchain developer with extensive expertise in Solidity, React, Nex
 * [**Bulldog NFT Forge**](https://bulldog-nft.vercel.app/)
   Web3 app demonstrating minting, forging, burning, and trading of NFTs with ERC-1155 contracts deployed on Polygon Amoy.
 
-* [**DishSwap**](https://dishswap.vercel.app/)
-  Vibrantly-colored platform for global recipe discovery, sharing, and interaction.
+---
+
+## Project Archive
 
 * [**Personal Portfolio**](https://daveyrockets.me/)
   Portfolio showcasing JWT authentication, protected routes, blog functionality, backend processing, responsive design, and Tailwind CSS.
