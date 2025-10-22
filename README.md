@@ -1,14 +1,14 @@
-# Davey Rockets | Blockchain & Full-Stack Web3 Developer
+# Davey Rockets | DeFi/Web3 Engineer • Smart Contracts & Full‑Stack
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PenneconDavid\&style=flat-square)
 
-Welcome! I'm Dave, a **Full-Stack Web3 Developer** specializing in blockchain technologies, decentralized finance (DeFi), and innovative, user-focused applications.
+Welcome! I'm Dave, a **DeFi/Web3 & Full‑Stack engineer** focused on smart contracts, account abstraction (ERC‑4337), and production‑grade full‑stack dapps. I combine a finance/M&A background with rigorous engineering to ship secure, gas‑efficient, and user‑centric onchain products.
 
 ---
 
 ## About Me
 
-Full-stack blockchain developer with extensive expertise in Solidity, React, Next.js, and Node.js. Leveraging deep experience in financial modeling and mergers & acquisitions to build secure, efficient, and impactful blockchain solutions. Passionate about bridging traditional finance with cutting-edge Web3 technologies.
+Full‑stack blockchain engineer with deep experience in Solidity, ERC‑4337 (paymasters, SimpleAccount flows), and React/Next.js. I leverage financial modeling and due‑diligence experience to design robust DeFi systems with clear risk controls, strong test coverage, and pragmatic DevEx. Passionate about shipping real products that balance security, performance, and UX.
 
 ---
 
@@ -45,6 +45,7 @@ Full-stack blockchain developer with extensive expertise in Solidity, React, Nex
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge\&logo=ipfs\&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge\&logo=openzeppelin\&logoColor=white)
 ![ERC-4337](https://img.shields.io/badge/ERC--4337-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge\&logo=chainlink\&logoColor=white)
 
 **Full-Stack Development:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
@@ -78,19 +79,22 @@ Full-stack blockchain developer with extensive expertise in Solidity, React, Nex
 
 ## Areas of Expertise
 
-* Account Abstraction (ERC-4337)
-* Paymasters (verifying/sponsoring)
-* Soulbound Tokens (ERC-5192)
+* Account Abstraction (ERC‑4337): paymasters, SimpleAccount flows, userOp UX
+* DeFi protocol patterns: budgets/caps, staking/rewards, vault‑style controls
+* Gas optimization and testing: Foundry test suites, coverage, fuzz/invariant tests
+* Secure token standards & receipts: ERC‑721 SBT (ERC‑5192), ERC‑1155
+* Offchain integrations: Chainlink Functions/Automation, event‑driven jobs
 
 ---
 
 ## Recent Projects
 
-### DAO Gas Reimbursement Paymaster (ERC-4337)
+### DAO Gas Reimbursement Paymaster (ERC‑4337)
 
 * **Role:** Smart Contract + Full-Stack Developer
 * **Stack:** Solidity, Foundry, OpenZeppelin, ERC-4337 (EntryPoint v0.8), TypeScript, Next.js, viem, wagmi, GitHub Actions, Slither, Solhint
 * **One-liner:** A verifying paymaster that sponsors gas for allowlisted smart accounts with monthly budgets, safety caps, and optional SBT receipts—plus a dashboard and reproducible local demo.
+* **Live:** https://dao-gas.vercel.app/
 * **On-chain:**
   * BudgetPaymaster: per-sender monthly budgets, sender allowlist, per-op and fee caps, global cap, UTC month rollover, deposit/stake helpers, optional ReceiptNFT mint in postOp.
   * ReceiptNFT (SBT): ERC-721 with ERC-5192 "locked" semantics, one receipt per sponsored op.
@@ -101,9 +105,10 @@ Full-stack blockchain developer with extensive expertise in Solidity, React, Nex
   * CI: forge build/test, coverage (lcov), gas snapshots, Slither, Solhint, web build/lint.
 * **How it works:** Validates UserOperations against sender budget and safety caps during validatePaymasterUserOp, then debits actual gas costs in postOp. Budgets reset at UTC month boundaries. Each sponsored op can mint a soulbound receipt.
 
-### Ball Knower
+### BallKnower (RAG + MLB analytics)
 
-* **What it is:** Next.js app that helps fantasy managers plan and draft. Blends MLB season lines, user-uploaded projections, and Baseball Savant skill metrics (EV, Barrel%, xwOBA) into a pgvector-backed RAG pipeline, then streams GPT answers with citations, player comparisons, and a cheat-sheet generator for custom scoring. Hybrid retrieval (vector + trigram), Redis caching, and unit/golden tests keep it fast and trustworthy.
+* **Live:** https://ballknower.vercel.app/
+* **What it is:** Next.js app that helps fantasy managers plan and draft. Blends MLB season lines, user-uploaded projections, and Baseball Savant skill metrics (EV, Barrel%, xwOBA) into a pgvector‑backed RAG pipeline, then streams GPT answers with citations, player comparisons, and a cheat‑sheet generator. Hybrid retrieval (vector + trigram), Redis caching, and unit/golden tests keep it fast and trustworthy.
 * **Tech stack:** Next.js 14 (TS, App Router), Tailwind/shadcn, OpenAI (chat + embeddings), Prisma, Supabase Postgres + pgvector, Upstash Redis, Vitest, pino.
 * **Key features:**
   * CSV projection upload, merge, anomaly flags
@@ -116,10 +121,13 @@ Full-stack blockchain developer with extensive expertise in Solidity, React, Nex
 ## Featured Projects
 
 * [**OddScout**](https://odd-scout.vercel.app/)
-  OddsScout is a comprehensive tool for comparing MLB betting odds between traditional sportsbooks and Polymarket's prediction markets. It provides real-time odds comparison, arbitrage detection, and detailed market analysis.
+  OddsScout compares MLB odds between sportsbooks and Polymarket, surfaces arbitrage deltas, and records insights on‑chain via a Solidity contract and Chainlink Functions/Automation.
 
 * [**Bulldog NFT Forge**](https://bulldog-nft.vercel.app/)
   Web3 app demonstrating minting, forging, burning, and trading of NFTs with ERC-1155 contracts deployed on Polygon Amoy.
+
+* [**DishSwap**](https://dishswap.vercel.app/)
+  Social recipe dapp with image uploads, JWT auth, reactions, and comments; modern Next.js + MongoDB stack with polished UX.
 
 ---
 
@@ -127,6 +135,14 @@ Full-stack blockchain developer with extensive expertise in Solidity, React, Nex
 
 * [**Personal Portfolio**](https://daveyrockets.me/)
   Portfolio showcasing JWT authentication, protected routes, blog functionality, backend processing, responsive design, and Tailwind CSS.
+
+---
+
+## What I’m Looking For
+
+* Roles: Smart Contract Engineer, DeFi Protocol Engineer, Web3 Full‑Stack
+* Focus areas: ERC‑4337/AA, protocol design, L2s, security & testing, Chainlink integrations
+* Engagements: Full‑time or contract; remote‑friendly
 
 ---
 
