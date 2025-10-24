@@ -8,7 +8,7 @@ Welcome! I'm Dave, a **DeFi/Web3 & Full‑Stack engineer** focused on smart cont
 
 ## About Me
 
-Full‑stack blockchain engineer with deep experience in Solidity, ERC‑4337 (paymasters, SimpleAccount flows), and React/Next.js. I leverage financial modeling and due‑diligence experience to design robust DeFi systems with clear risk controls, strong test coverage, and pragmatic DevEx. Passionate about shipping real products that balance security, performance, and UX.
+Full‑stack blockchain engineer with deep experience in Solidity, ERC-115, ERC‑4337, and React/Next.js. I leverage financial modeling and due‑diligence experience to design robust DeFi systems with clear risk controls, strong test coverage, and pragmatic DevEx. Passionate about shipping real products that balance security, performance, and UX.
 
 ---
 
