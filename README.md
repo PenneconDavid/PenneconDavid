@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PenneconDavid\&style=flat-square)
 
-Welcome! I'm Dave, a **DeFi/Web3 & Full‑Stack engineer** focused on smart contracts, account abstraction (ERC‑4337), and production‑grade full‑stack dapps. I combine a finance/M&A background with rigorous engineering to ship secure, gas‑efficient, and user‑centric onchain products.
+Welcome! I'm Dave, a **DeFi/Web3 & Full‑Stack engineer** focused on smart contracts, defi apps, and production‑grade full‑stack dapps. I combine a finance/M&A background with rigorous engineering to ship secure, gas‑efficient, and user‑centric onchain products.
 
 ---
 
