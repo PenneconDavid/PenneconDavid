@@ -2,13 +2,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PenneconDavid\&style=flat-square)
 
-Welcome! I'm Dave, a **DeFi/Web3 & Full‑Stack engineer** focused on smart contracts, account abstraction (ERC‑4337), and production‑grade full‑stack dapps. I combine a finance/M&A background with rigorous engineering to ship secure, gas‑efficient, and user‑centric onchain products.
+Welcome! I'm Dave, a **DeFi/Web3 & Full‑Stack engineer** focused on smart contracts, defi apps, and production‑grade full‑stack dapps. I combine a finance/M&A background with rigorous engineering to ship secure, gas‑efficient, and user‑centric onchain products.
 
 ---
 
 ## About Me
 
-Full‑stack blockchain engineer with deep experience in Solidity, ERC‑4337 (paymasters, SimpleAccount flows), and React/Next.js. I leverage financial modeling and due‑diligence experience to design robust DeFi systems with clear risk controls, strong test coverage, and pragmatic DevEx. Passionate about shipping real products that balance security, performance, and UX.
+Full‑stack blockchain engineer with deep experience in Solidity, ERC-115, ERC‑4337, and React/Next.js. I leverage financial modeling and due‑diligence experience to design robust DeFi systems with clear risk controls, strong test coverage, and pragmatic DevEx. Passionate about shipping real products that balance security, performance, and UX.
 
 ---
 
@@ -170,7 +170,7 @@ Full‑stack blockchain engineer with deep experience in Solidity, ERC‑4337 (p
 [![Portfolio](https://img.shields.io/badge/Portfolio-2C2C2C?style=for-the-badge\&logo=web\&logoColor=white)](https://daveyrockets.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:d.seibold@icloud.com)
 
-**Interested in collaborating or exploring opportunities?** Let's connect and innovate together in blockchain and Web3 development!
+**Interested in collaborating or exploring opportunities?** Let's connect and innovate together in blockchain and Web3 development!!
 
 ---
 
