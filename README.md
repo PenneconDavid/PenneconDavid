@@ -182,12 +182,15 @@ Full‑stack blockchain engineer with deep experience in Solidity, ERC-115, ERC�
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PenneconDavid&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Davey Rockets's GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app?user=PenneconDavid&theme=tokyonight&hide_border=true" alt="PenneconDavid's GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PenneconDavid&theme=tokyonight" alt="GitHub Summary"/>
+  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Isometric contribution calendar" width="98%"/>
+</p>
+
+<p align="center">
+  <img src="metrics.plugin.languages.details.svg" alt="Languages activity" width="49%"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=PenneconDavid&theme=tokyonight&hide_border=true" alt="GitHub streak stats" width="49%"/>
 </p>
 
 ---
