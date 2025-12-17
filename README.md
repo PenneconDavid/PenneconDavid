@@ -124,7 +124,7 @@ Social recipe dapp with image uploads, JWT auth, reactions, and comments; modern
 [![Portfolio](https://img.shields.io/badge/Portfolio-2C2C2C?style=for-the-badge\&logo=web\&logoColor=white)](https://daveyrockets.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:d.seibold@icloud.com)
 
-**Interested in collaborating or exploring opportunities?** Let's connect and innovate together in blockchain and Web3 development!!
+**Interested in collaborating or exploring opportunities?** Let's connect and innovate together in blockchain and Web3 development!
 ## Goals
 
 * Master Web3 technologies and continuously launch innovative decentralized apps.
