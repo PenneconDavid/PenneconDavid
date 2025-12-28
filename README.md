@@ -142,7 +142,7 @@ Full-stack blockchain engineer with deep experience in Solidity, ERC-115, ERC-43
 </p>
 
 <p align="center">
-  <img src="metrics.classic.svg" alt="GitHub overview metrics" width="98%"/>
+  <img src="metrics.classic.svg" alt="GitHub overview metrics" width="49%"/>
 </p>
 
 *P.S.: Feel free to leave feedback or connect—I’m always up for collaborating and learning!* 🚀
