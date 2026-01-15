@@ -66,19 +66,6 @@ Full-stack blockchain engineer with deep experience in Solidity, ERC-115, ERC-43
 
 ## Projects
 
-### DAO Gas Reimbursement Paymaster (ERC-4337)
-- **Live**: https://dao-gas.vercel.app/
-- **Repo**: https://github.com/PenneconDavid/DAO-Gas-Reimbursement-Paymaster
-- **Summary**: Verifying paymaster that sponsors gas for allowlisted smart accounts with monthly budgets, safety caps, optional global cap, and optional SBT receipt mints—plus a polished demo dashboard.
-- **Stack**: Solidity, Foundry, OpenZeppelin, ERC-4337, TypeScript, Next.js, viem/wagmi, GitHub Actions
-
-### Solana NFT Forge (Anchor)
-- **Live**: https://solana-nft-forge.vercel.app/
-- **Repo**: https://github.com/PenneconDavid/Solana-NFT-Forge-with-Anchor
-- **Summary**: On-chain “forging” system where creators define recipes/constraints and users forge new assets once requirements are met (localnet-first, devnet-ready).
-- **On-chain**: Devnet Program ID `BncAjQaJFE7xN4ut2jaAGVSKdrqpuzyuHoiCGTpj1DkN`
-- **Stack**: Rust, Anchor, Solana Web3, Next.js, TypeScript, Metaplex Token Metadata CPI
-
 ### BallKnower (RAG + MLB analytics)
 - **Live**: https://ballknower.vercel.app/
 - **Repo**: Private (security)
@@ -91,6 +78,12 @@ Full-stack blockchain engineer with deep experience in Solidity, ERC-115, ERC-43
 - **Summary**: Compares MLB odds between sportsbooks and Polymarket, surfaces arbitrage deltas, and records insights on-chain.
 - **Stack**: Next.js, TypeScript, Solidity, Chainlink Functions/Automation
 
+### Hedera Notary Log (HCS “proof-of-existence”)
+- **Live**: https://hedera-notary-log.vercel.app/
+- **Repo**: https://github.com/PenneconDavid/Hedera-Notary-Log
+- **Summary**: Hash a document locally (no upload), anchor the hash (or salted commitment) to Hedera Consensus Service (HCS), then verify later via Mirror Node with timestamp + ordering. Includes receipt links and optional MetaMask EIP-712 signing with server-side verification.
+- **Stack**: Next.js, TypeScript, Hedera JS SDK (HCS submit), Mirror Node REST, Web Crypto (SHA-256), EIP-712 (MetaMask), Jest
+
 ### Bulldog NFT Forge
 - **Live**: https://bulldog-nft.vercel.app/
 - **Repo**: Private (security)
@@ -99,6 +92,19 @@ Full-stack blockchain engineer with deep experience in Solidity, ERC-115, ERC-43
 
 <details>
   <summary><strong>Project Archive</strong></summary>
+
+  - **DAO Gas Reimbursement Paymaster (ERC-4337)**
+    - **Live**: https://dao-gas.vercel.app/
+    - **Repo**: https://github.com/PenneconDavid/DAO-Gas-Reimbursement-Paymaster
+    - **Summary**: Verifying paymaster that sponsors gas for allowlisted smart accounts with monthly budgets, safety caps, optional global cap, and optional SBT receipt mints—plus a polished demo dashboard.
+    - **Stack**: Solidity, Foundry, OpenZeppelin, ERC-4337, TypeScript, Next.js, viem/wagmi, GitHub Actions
+
+  - **Solana NFT Forge (Anchor)**
+    - **Live**: https://solana-nft-forge.vercel.app/
+    - **Repo**: https://github.com/PenneconDavid/Solana-NFT-Forge-with-Anchor
+    - **Summary**: On-chain “forging” system where creators define recipes/constraints and users forge new assets once requirements are met (localnet-first, devnet-ready).
+    - **On-chain**: Devnet Program ID `BncAjQaJFE7xN4ut2jaAGVSKdrqpuzyuHoiCGTpj1DkN`
+    - **Stack**: Rust, Anchor, Solana Web3, Next.js, TypeScript, Metaplex Token Metadata CPI
 
   - **DishSwap**
     - **Live**: https://dishswap.vercel.app/
