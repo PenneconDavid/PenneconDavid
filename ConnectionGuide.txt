@@ -11,11 +11,9 @@ Last updated: 2026-01-18
 - https://komarev.com/ghpvc/
 - https://cdn.jsdelivr.net/gh/devicons/devicon/ (asset CDN)
 - https://img.shields.io/badge/ (badges)
-- https://github-readme-stats.vercel.app/api
+- https://github-readme-stats.vercel.app/api (top languages card)
 - https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-streak.svg
 - https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-streak-dark.svg
-- https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake.svg
-- https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake-dark.svg
 
 #### External links (projects / socials)
 - https://ballknower.vercel.app/

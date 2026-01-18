@@ -107,6 +107,7 @@ Committed to audits via Slither and 100% test coverage in Foundry. CI gates: bui
 
 <details>
   <summary><strong>Project Archive</strong></summary>
+
   - **DAO Gas Reimbursement Paymaster (ERC-4337)**
     - **Live**: https://dao-gas.vercel.app/
     - **Repo**: https://github.com/PenneconDavid/DAO-Gas-Reimbursement-Paymaster
@@ -114,6 +115,7 @@ Committed to audits via Slither and 100% test coverage in Foundry. CI gates: bui
     - **Stack**: Solidity, Foundry, OpenZeppelin, ERC-4337, TypeScript, Next.js, viem/wagmi, GitHub Actions
     - **Impact/Key Feature**: Budget controls inspired by M&A financial modeling.
     <!-- Placeholder for screenshot/GIF: <img src="dao-gas-screenshot.gif" alt="DAO Gas demo" width="600"> -->
+
   - **Solana NFT Forge (Anchor)**
     - **Live**: https://solana-nft-forge.vercel.app/
     - **Repo**: https://github.com/PenneconDavid/Solana-NFT-Forge-with-Anchor
@@ -122,6 +124,7 @@ Committed to audits via Slither and 100% test coverage in Foundry. CI gates: bui
     - **Stack**: Rust, Anchor, Solana Web3, Next.js, TypeScript, Metaplex Token Metadata CPI
     - **Impact/Key Feature**: Constraint-based forging for dynamic asset creation.
     <!-- Placeholder for screenshot/GIF: <img src="solana-nft-screenshot.gif" alt="Solana NFT Forge demo" width="600"> -->
+
   - **DishSwap**
     - **Live**: https://dishswap.vercel.app/
     - **Repo**: https://github.com/PenneconDavid/DishSwap
@@ -129,8 +132,9 @@ Committed to audits via Slither and 100% test coverage in Foundry. CI gates: bui
     - **Stack**: Next.js, TypeScript, Tailwind, MongoDB Atlas, JWT
     - **Impact/Key Feature**: User engagement features with secure auth.
     <!-- Placeholder for screenshot/GIF: <img src="dishswap-screenshot.gif" alt="DishSwap demo" width="600"> -->
-  * [**Personal Portfolio**](https://daveyrockets.me/)
-    Portfolio showcasing JWT authentication, protected routes, blog functionality, backend processing, responsive design, and Tailwind CSS.
+
+  - [**Personal Portfolio**](https://daveyrockets.me/)
+    - **Summary**: Portfolio showcasing JWT authentication, protected routes, blog functionality, backend processing, responsive design, and Tailwind CSS.
     - **Impact/Key Feature**: Full-stack demo of auth and content management.
     <!-- Placeholder for screenshot/GIF: <img src="portfolio-screenshot.gif" alt="Personal Portfolio demo" width="600"> -->
 </details>
@@ -156,18 +160,17 @@ Master Web3 technologies, launch innovative dApps, collaborate in the developer 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PenneconDavid&theme=radical&hide_border=true&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PenneconDavid&theme=radical&hide_border=true&layout=compact)  
 ![Streak](https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-streak-dark.svg#gh-dark-mode-only)
 ![Streak](https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-streak.svg#gh-light-mode-only)
 
-#### 📈 Metrics (auto-updated)
-<img src="./metrics.classic.svg" alt="GitHub Metrics Overview" />
-<img src="./metrics.plugin.languages.details.svg" alt="GitHub Languages (detailed)" />
-<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="GitHub Isocalendar (full year)" />
+<details>
+  <summary><strong>📈 Metrics (auto-updated)</strong></summary>
 
-![Contribution Snake](https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Contribution Snake](https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  <img src="./metrics.plugin.languages.details.svg" alt="GitHub Languages (detailed)" />
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="GitHub Isocalendar (full year)" />
+
+</details>
 
 *P.S.: From valuing vet clinics to optimizing gas—let's build the future of finance! 🚀*  
 Support me here 👉 daveyrockets.eth
