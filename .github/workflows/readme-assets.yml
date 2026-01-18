@@ -1,7 +1,13 @@
-name: Streak Card (cached, deprecated)
+name: README Assets (snake + streak)
 
 on:
+  schedule:
+    # Daily at 08:10 UTC
+    - cron: "10 8 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
@@ -9,16 +15,22 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Notice
-        run: |
-          echo "Deprecated: Use .github/workflows/readme-assets.yml instead."
-          exit 0
       - name: Prepare output directory
         run: |
           rm -rf dist
           mkdir -p dist
 
-      - name: Fetch streak SVG (with fallback)
+      - name: Generate contribution snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch streak SVGs (with fallback)
         env:
           USERNAME: ${{ github.repository_owner }}
         run: |
@@ -27,7 +39,6 @@ jobs:
           OUT="dist/github-streak.svg"
           OUT_DARK="dist/github-streak-dark.svg"
 
-          # Providers (both can be flaky). We'll try multiple times and validate the SVG looks real.
           URL1="https://streak-stats.demolab.com/?user=${USERNAME}&theme=radical"
           URL2="https://github-readme-streak-stats.herokuapp.com/?user=${USERNAME}&theme=radical"
 
@@ -46,19 +57,17 @@ jobs:
             ! grep -qi "<title>500" "${out}"
           }
 
-          # Try to produce the primary streak card.
           rm -f "${OUT}"
           (fetch_and_validate "${URL1}" "${OUT}") || (fetch_and_validate "${URL2}" "${OUT}")
 
-          # Dark variant: use the same theme for now (radical is dark-friendly), but keep a separate filename
-          # so the README can use GitHub's light/dark mode routing if you change themes later.
+          # Keep a separate dark filename for GitHub's `#gh-dark-mode-only` routing
           cp "${OUT}" "${OUT_DARK}"
 
-      - name: Publish to output branch
+      - name: Publish all assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "chore: update cached streak card"
+          commit_message: "chore: update README assets"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

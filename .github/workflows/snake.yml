@@ -1,13 +1,7 @@
-name: Contribution Snake
+name: Contribution Snake (deprecated)
 
 on:
-  schedule:
-    # Daily at 08:00 UTC
-    - cron: "0 8 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
@@ -15,6 +9,10 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Notice
+        run: |
+          echo "Deprecated: Use .github/workflows/readme-assets.yml instead."
+          exit 0
       - name: Checkout
         uses: actions/checkout@v4
 

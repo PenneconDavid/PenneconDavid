@@ -162,9 +162,9 @@ Master Web3 technologies, launch innovative dApps, collaborate in the developer 
 ![Streak](https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-streak.svg#gh-light-mode-only)
 
 #### 📈 Metrics (auto-updated)
-<img src="./metrics.classic.svg" alt="GitHub Metrics Overview" width="800" />
-<img src="./metrics.plugin.languages.details.svg" alt="GitHub Languages (detailed)" width="800" />
-<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="GitHub Isocalendar (full year)" width="800" />
+<img src="./metrics.classic.svg" alt="GitHub Metrics Overview" />
+<img src="./metrics.plugin.languages.details.svg" alt="GitHub Languages (detailed)" />
+<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="GitHub Isocalendar (full year)" />
 
 ![Contribution Snake](https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Contribution Snake](https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake.svg#gh-light-mode-only)
