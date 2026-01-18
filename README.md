@@ -165,7 +165,11 @@ Master Web3 technologies, launch innovative dApps, collaborate in the developer 
 <img src="./metrics.plugin.languages.details.svg" alt="GitHub Languages (detailed)" width="800" />
 <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="GitHub Isocalendar (full year)" width="800" />
 
-<img src="https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake.svg" />
+</picture>
 
 *P.S.: From valuing vet clinics to optimizing gas—let's build the future of finance! 🚀*  
 Support me here 👉 daveyrockets.eth
