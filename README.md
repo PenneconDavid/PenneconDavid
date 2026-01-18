@@ -24,7 +24,7 @@ Full-stack blockchain engineer with deep experience in Solidity, ERC-115, ERC-43
   * Improved operational efficiency in valuation and financial modeling processes.
 ## Education
 
-* **Full Stack Web3 Advanced Solidity Bootcamp** *(Metana, May 2024 - June 2025)*
+* **Full Stack & Web3 Advanced Solidity Bootcamp** *(Metana, Completed June 2025)*
 * **BS, Business Administration** *(California Lutheran University, 2015)*
 
 ---
