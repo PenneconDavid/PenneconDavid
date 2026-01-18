@@ -11,14 +11,14 @@ focus: Building secure, gas-efficient onchain products with a finance lens
 location: San Diego, CA
 ```
 
-Welcome! I'm Dave, a full-stack blockchain engineer transitioning from 10+ years in pet/vet M&A. I apply financial modeling, valuation, and due diligence expertise to craft robust DeFi systems with strong risk controls, test coverage, and user-centric design. Passionate about ERC-4337, protocol patterns, and shipping secure dApps.
+Welcome! I'm Dave, a full-stack blockchain engineer transitioning from 10+ years in pet industry/veterinary industry M&A. I apply financial modeling, valuation, and due diligence expertise to craft robust DeFi systems with strong risk controls, test coverage, and user-centric design. Passionate about defi products, blockchain security, protocol patterns, and shipping secure dApps.
 
 ---
 
 ## About Me
 
 ### My Transition to Web3
-After leading 67+ acquisitions and streamlining due diligence at Destination Pet and VetEvolve, I pivoted to engineering via a rigorous Solidity bootcamp. This background uniquely equips me to tackle DeFi challenges—like modeling vaults with EBITDA-like precision or implementing caps inspired by M&A risk assessments—bridging traditional finance with blockchain innovation.
+After leading hundreds acquisitions and streamlining due diligence at NVA, Destination Pet, and VetEvolve, I pivoted to engineering via rigorous Full Stack and Solidity bootcamps. This background uniquely equips me to tackle DeFi challenges—like modeling vaults with EBITDA-like precision or implementing caps inspired by M&A risk assessments—bridging traditional finance with blockchain innovation.
 
 ## Professional Experience
 * **Director of M&A | VetEvolve** *(May 2024 - Present)*
