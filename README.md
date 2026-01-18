@@ -160,6 +160,11 @@ Master Web3 technologies, launch innovative dApps, collaborate in the developer 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PenneconDavid&theme=radical&hide_border=true&layout=compact)  
 ![Streak](https://streak-stats.demolab.com/?user=PenneconDavid&theme=radical&hide_border=true)  
 
+#### 📈 Metrics (auto-updated)
+<img src="./metrics.classic.svg" alt="GitHub Metrics Overview" width="800" />
+<img src="./metrics.plugin.languages.details.svg" alt="GitHub Languages (detailed)" width="800" />
+<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="GitHub Isocalendar (full year)" width="800" />
+
 <img src="https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 
 *P.S.: From valuing vet clinics to optimizing gas—let's build the future of finance! 🚀*  
