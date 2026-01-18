@@ -1,0 +1,66 @@
+name: Streak Card (cached)
+
+on:
+  schedule:
+    # Daily at 08:15 UTC (after other readme assets)
+    - cron: "15 8 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Prepare output directory
+        run: |
+          rm -rf dist
+          mkdir -p dist
+
+      - name: Fetch streak SVG (with fallback)
+        env:
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          set -euo pipefail
+
+          OUT="dist/github-streak.svg"
+          OUT_DARK="dist/github-streak-dark.svg"
+
+          # Providers (both can be flaky). We'll try multiple times and validate the SVG looks real.
+          URL1="https://streak-stats.demolab.com/?user=${USERNAME}&theme=radical"
+          URL2="https://github-readme-streak-stats.herokuapp.com/?user=${USERNAME}&theme=radical"
+
+          fetch_and_validate () {
+            local url="$1"
+            local out="$2"
+
+            echo "Fetching: ${url}"
+            curl -fsSL --retry 5 --retry-all-errors --connect-timeout 10 --max-time 30 "${url}" -o "${out}"
+
+            # Basic validation: file exists, non-trivial size, contains <svg, and does not look like an error page.
+            test -s "${out}"
+            test "$(wc -c < "${out}")" -gt 2000
+            grep -q "<svg" "${out}"
+            ! grep -qi "internal server error" "${out}"
+            ! grep -qi "<title>500" "${out}"
+          }
+
+          # Try to produce the primary streak card.
+          rm -f "${OUT}"
+          (fetch_and_validate "${URL1}" "${OUT}") || (fetch_and_validate "${URL2}" "${OUT}")
+
+          # Dark variant: use the same theme for now (radical is dark-friendly), but keep a separate filename
+          # so the README can use GitHub's light/dark mode routing if you change themes later.
+          cp "${OUT}" "${OUT_DARK}"
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update cached streak card"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

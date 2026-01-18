@@ -1,0 +1,58 @@
+## ConnectionGuide
+
+Log of every port, API endpoint, and external connection referenced by this repo.
+
+Last updated: 2026-01-18
+
+### README.md external connections
+
+#### Images / badges / embeds
+- https://capsule-render.vercel.app/api
+- https://komarev.com/ghpvc/
+- https://cdn.jsdelivr.net/gh/devicons/devicon/ (asset CDN)
+- https://img.shields.io/badge/ (badges)
+- https://github-readme-stats.vercel.app/api
+- https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-streak.svg
+- https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-streak-dark.svg
+- https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake.svg
+- https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake-dark.svg
+
+#### External links (projects / socials)
+- https://ballknower.vercel.app/
+- https://odd-scout.vercel.app/
+- https://hedera-notary-log.vercel.app/
+- https://bulldog-nft.vercel.app/
+- https://dao-gas.vercel.app/
+- https://solana-nft-forge.vercel.app/
+- https://dishswap.vercel.app/
+- https://daveyrockets.me/
+- https://github.com/PenneconDavid/Hedera-Notary-Log
+- https://github.com/PenneconDavid/DAO-Gas-Reimbursement-Paymaster
+- https://github.com/PenneconDavid/Solana-NFT-Forge-with-Anchor
+- https://github.com/PenneconDavid/DishSwap
+- https://www.linkedin.com/in/davidseibold/
+- https://twitter.com/Davey_Rockets
+- mailto:d.seibold@icloud.com
+
+### GitHub Actions external connections
+
+#### lowlighter/metrics workflow
+- https://github.com/lowlighter/metrics (action)
+- GitHub API via `GITHUB_TOKEN` / `METRICS_TOKEN` (used by the action)
+
+#### contribution snake workflow
+- https://github.com/Platane/snk (action)
+- https://github.com/crazy-max/ghaction-github-pages (action)
+- GitHub API via `GITHUB_TOKEN` (used by the actions)
+
+#### cached streak workflow
+- https://streak-stats.demolab.com/ (fetched by workflow)
+- https://github-readme-streak-stats.herokuapp.com/ (fetched by workflow fallback)
+- https://github.com/crazy-max/ghaction-github-pages (action)
+- GitHub API via `GITHUB_TOKEN` (used by the actions)
+
+### Ports
+- None.
+
+### API endpoints
+- None implemented in this repo (README embeds only).

@@ -158,18 +158,16 @@ Master Web3 technologies, launch innovative dApps, collaborate in the developer 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PenneconDavid&theme=radical&hide_border=true&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PenneconDavid&theme=radical&hide_border=true&layout=compact)  
-![Streak](https://streak-stats.demolab.com/?user=PenneconDavid&theme=radical&hide_border=true)  
+![Streak](https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-streak-dark.svg#gh-dark-mode-only)
+![Streak](https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-streak.svg#gh-light-mode-only)
 
 #### 📈 Metrics (auto-updated)
 <img src="./metrics.classic.svg" alt="GitHub Metrics Overview" width="800" />
 <img src="./metrics.plugin.languages.details.svg" alt="GitHub Languages (detailed)" width="800" />
 <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="GitHub Isocalendar (full year)" width="800" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake.svg" />
-</picture>
+![Contribution Snake](https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Contribution Snake](https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 *P.S.: From valuing vet clinics to optimizing gas—let's build the future of finance! 🚀*  
 Support me here 👉 daveyrockets.eth
