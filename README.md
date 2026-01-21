@@ -1,6 +1,4 @@
-# Davey Rockets | DeFi/Web3 Engineer • Smart Contracts & Full‑Stack
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Davey%20Rockets%20%F0%9F%9A%80&fontSize=60&animation=twinkling&fontColor=FFD700&stroke=FF4500&strokeWidth=2&rotate=5" alt="Header Banner">
+# David Seibold | DeFi/Web3 Engineer • Smart Contracts & Full‑Stack
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PenneconDavid&style=flat-square)
 
