@@ -18,6 +18,9 @@ Welcome! I'm Dave, a full-stack blockchain engineer transitioning from 10+ years
 ### My Transition to Web3
 After leading hundreds acquisitions and streamlining due diligence at NVA, Destination Pet, and VetEvolve, I have pivoted to getting credentialed in engineering via rigorous Full Stack and Solidity bootcamps. This background uniquely equips me to tackle DeFi challenges—bridging traditional finance with blockchain innovation.
 
+### How I Use AI
+AI is part of my daily build loop: I use it to quickly compare approaches, scaffold project structure, tighten prompts/specs, and accelerate debugging + documentation. I treat outputs as a starting point—not an answer—so I always ask “why,” verify with primary docs/tests, and never ship AI-generated code without review, understanding, and full test coverage.
+
 ## Professional Experience
 * **Director of M&A | VetEvolve** *(May 2024 - Present)*
   * Led detailed business valuation analyses, improving EBITDA accuracy.
