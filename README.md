@@ -166,7 +166,7 @@ Master Web3 technologies, launch innovative dApps, collaborate in the developer 
 ![Streak](https://raw.githubusercontent.com/PenneconDavid/PenneconDavid/output/github-streak.svg#gh-light-mode-only)
 
 <details>
-  <summary><strong>📈 Metrics (auto-updated)</strong></summary>
+  <summary><strong>📈 More Metrics</strong></summary>
 
   <img src="./metrics.plugin.languages.details.svg" alt="GitHub Languages (detailed)" />
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="GitHub Isocalendar (full year)" />
