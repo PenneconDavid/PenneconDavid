@@ -1,4 +1,4 @@
-<img src="./assets/hero-banner.svg" alt="Davey Rockets — Full-Stack DeFi Engineer" width="100%" />
+<img src="./assets/hero-banner.png" alt="Davey Rockets — Full-Stack DeFi Engineer" width="100%" />
 
 # David Seibold · Full-Stack DeFi Engineer
 
@@ -10,11 +10,7 @@ Ten years in M&A taught me how to model risk, cap exposure, and stress-test assu
 
 ## Building Now
 
-- **[defi-kpi-publisher](https://github.com/PenneconDavid/defi-kpi-publisher)** — CRE-driven DeFi KPI oracle that toggles onchain risk mode when SaaS metrics cross policy thresholds
-- **[DAO Gas Reimbursement Paymaster](https://github.com/PenneconDavid/DAO-Gas-Reimbursement-Paymaster)** — ERC-4337 paymaster with monthly budgets, safety caps, and optional SBT receipts
-- **[Solana NFT Forge](https://github.com/PenneconDavid/Solana-NFT-Forge-with-Anchor)** — Anchor program for constraint-based asset forging on devnet
-
-*Last updated: July 2026*
+A new project announcement is coming soon. Follow along at **[daveyrockets.me](https://daveyrockets.me)** or on [X @Davey_Rockets](https://twitter.com/Davey_Rockets).
 
 ---
 
@@ -22,9 +18,9 @@ Ten years in M&A taught me how to model risk, cap exposure, and stress-test assu
 
 | | Project | What it proves |
 |:---:|:---|:---|
+| <a href="https://ballknower.vercel.app/"><img src="./assets/ballknower.png" alt="BallKnower demo" width="420"/></a> | **[BallKnower](https://ballknower.vercel.app/)** *(private repo)* | Fantasy baseball assistant with pgvector-backed RAG, streaming answers, and cited MLB insights |
+| <a href="https://odd-scout.vercel.app/"><img src="./assets/oddscout.png" alt="OddScout demo" width="420"/></a> | **[OddScout](https://odd-scout.vercel.app/)** *(private repo)* | Sportsbook vs Polymarket arbitrage deltas with automated on-chain recording via Chainlink |
 | <a href="https://dao-gas-reimbursement-paymaster.vercel.app/"><img src="./assets/dao-gas.png" alt="DAO Gas Paymaster demo" width="420"/></a> | **[DAO Gas Paymaster](https://github.com/PenneconDavid/DAO-Gas-Reimbursement-Paymaster)** | Budget controls inspired by financial modeling — allowlisted smart accounts, monthly caps, global safety limits |
-| <a href="https://hedera-notary-log.vercel.app/"><img src="./assets/hedera-notary.png" alt="Hedera Notary Log demo" width="420"/></a> | **[Hedera Notary Log](https://github.com/PenneconDavid/Hedera-Notary-Log)** | Local document hashing + HCS anchoring for verifiable timestamps without uploading files |
-| <a href="https://solana-nft-forge.vercel.app/"><img src="./assets/solana-forge.png" alt="Solana NFT Forge demo" width="420"/></a> | **[Solana NFT Forge](https://github.com/PenneconDavid/Solana-NFT-Forge-with-Anchor)** | On-chain forging recipes with Anchor + Metaplex on Solana devnet |
 | <a href="https://daveyrockets.me/"><img src="./assets/portfolio.png" alt="Davey Rockets portfolio" width="420"/></a> | **[Davey Rockets](https://daveyrockets.me)** | Full-stack portfolio — JWT auth, CMS, blog, responsive UI |
 
 <details>
@@ -32,9 +28,9 @@ Ten years in M&A taught me how to model risk, cap exposure, and stress-test assu
 
   | | Project | Notes |
   |:---:|:---|:---|
+  | <a href="https://hedera-notary-log.vercel.app/"><img src="./assets/hedera-notary.png" alt="Hedera Notary Log demo" width="420"/></a> | **[Hedera Notary Log](https://github.com/PenneconDavid/Hedera-Notary-Log)** | Local document hashing + HCS anchoring for verifiable timestamps |
+  | <a href="https://solana-nft-forge.vercel.app/"><img src="./assets/solana-forge.png" alt="Solana NFT Forge demo" width="420"/></a> | **[Solana NFT Forge](https://github.com/PenneconDavid/Solana-NFT-Forge-with-Anchor)** | Constraint-based asset forging with Anchor on Solana devnet |
   | <a href="https://dishswap.vercel.app/"><img src="./assets/dishswap.png" alt="DishSwap demo" width="420"/></a> | **[DishSwap](https://github.com/PenneconDavid/DishSwap)** | Social recipe app with auth, reactions, and polished UI |
-  | | **BallKnower** *(private)* · [Live demo](https://ballknower.vercel.app/) | MLB RAG assistant with pgvector citations |
-  | | **OddScout** *(private)* · [Live demo](https://odd-scout.vercel.app/) | Sportsbook vs Polymarket arbitrage with Chainlink automation |
   | | **Bulldog NFT Forge** *(private)* · [Live demo](https://bulldog-nft.vercel.app/) | ERC-1155 mint / forge / burn lifecycle on Polygon Amoy |
 
 </details>
