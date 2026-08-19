@@ -10,7 +10,7 @@ Ten years in M&A taught me how to model risk, cap exposure, and stress-test assu
 
 ## Building Now
 
-A new project announcement is coming soon. Follow along at **[daveyrockets.me](https://daveyrockets.me)** or on [X @Davey_Rockets](https://twitter.com/Davey_Rockets).
+**[Waxmark](https://waxmark.app)** is live — a sealed catalog of Cursor rules, agent instructions, skills, and prompts. Every public file is scanned before it reaches an agent.
 
 ---
 
@@ -18,9 +18,9 @@ A new project announcement is coming soon. Follow along at **[daveyrockets.me](h
 
 | | Project | What it proves |
 |:---:|:---|:---|
-| <a href="https://ballknower.vercel.app/"><img src="./assets/ballknower.png" alt="BallKnower demo" width="420"/></a> | **[BallKnower](https://ballknower.vercel.app/)** *(private repo)* | Fantasy baseball assistant with pgvector-backed RAG, streaming answers, and cited MLB insights |
+| <a href="https://waxmark.app/"><img src="./assets/waxmark.png" alt="Waxmark demo" width="420"/></a> | **[Waxmark](https://waxmark.app)** *(private repo)* | Trusted registry for AI instructions — Cursor rules, skills, and prompts scanned for injection, exfiltration, and secrets before they reach an agent |
+| <a href="https://ashbyanddavid.com/"><img src="./assets/wedding.png" alt="Ashby & David wedding site" width="420"/></a> | **[Ashby & David](https://ashbyanddavid.com)** *(private repo)* | Custom wedding site with invite-code RSVP, household management, CMS, and a private admin portal |
 | <a href="https://odd-scout.vercel.app/"><img src="./assets/oddscout.png" alt="OddScout demo" width="420"/></a> | **[OddScout](https://odd-scout.vercel.app/)** *(private repo)* | Sportsbook vs Polymarket arbitrage deltas with automated on-chain recording via Chainlink |
-| <a href="https://dao-gas-reimbursement-paymaster.vercel.app/"><img src="./assets/dao-gas.png" alt="DAO Gas Paymaster demo" width="420"/></a> | **[DAO Gas Paymaster](https://github.com/PenneconDavid/DAO-Gas-Reimbursement-Paymaster)** | Budget controls inspired by financial modeling — allowlisted smart accounts, monthly caps, global safety limits |
 | <a href="https://daveyrockets.me/"><img src="./assets/portfolio.png" alt="Davey Rockets portfolio" width="420"/></a> | **[Davey Rockets](https://daveyrockets.me)** | Full-stack portfolio — JWT auth, CMS, blog, responsive UI |
 
 <details>
@@ -28,6 +28,8 @@ A new project announcement is coming soon. Follow along at **[daveyrockets.me](h
 
   | | Project | Notes |
   |:---:|:---|:---|
+  | <a href="https://ballknower.vercel.app/"><img src="./assets/ballknower.png" alt="BallKnower demo" width="420"/></a> | **[BallKnower](https://ballknower.vercel.app/)** *(private repo)* | Fantasy baseball assistant with pgvector-backed RAG, streaming answers, and cited MLB insights |
+  | <a href="https://dao-gas-reimbursement-paymaster.vercel.app/"><img src="./assets/dao-gas.png" alt="DAO Gas Paymaster demo" width="420"/></a> | **[DAO Gas Paymaster](https://github.com/PenneconDavid/DAO-Gas-Reimbursement-Paymaster)** | Budget controls inspired by financial modeling — allowlisted smart accounts, monthly caps, global safety limits |
   | <a href="https://hedera-notary-log.vercel.app/"><img src="./assets/hedera-notary.png" alt="Hedera Notary Log demo" width="420"/></a> | **[Hedera Notary Log](https://github.com/PenneconDavid/Hedera-Notary-Log)** | Local document hashing + HCS anchoring for verifiable timestamps |
   | <a href="https://solana-nft-forge.vercel.app/"><img src="./assets/solana-forge.png" alt="Solana NFT Forge demo" width="420"/></a> | **[Solana NFT Forge](https://github.com/PenneconDavid/Solana-NFT-Forge-with-Anchor)** | Constraint-based asset forging with Anchor on Solana devnet |
   | <a href="https://dishswap.vercel.app/"><img src="./assets/dishswap.png" alt="DishSwap demo" width="420"/></a> | **[DishSwap](https://github.com/PenneconDavid/DishSwap)** | Social recipe app with auth, reactions, and polished UI |
@@ -54,9 +56,9 @@ Full background, metrics, and resume → **[daveyrockets.me](https://daveyrocket
 
 **Blockchain:** Solidity · Foundry · OpenZeppelin · ERC-4337 · Rust · Anchor · Solana · Chainlink · IPFS
 
-**Full-stack:** TypeScript · React · Next.js · Node.js · Express · Tailwind · wagmi · viem
+**Full-stack:** TypeScript · React · Next.js · Node.js · Express · Tailwind · Auth.js · wagmi · viem
 
-**Data & infra:** PostgreSQL · MongoDB · Prisma · Redis · Python · OpenAI · Vercel · Docker · GitHub Actions
+**Data & infra:** PostgreSQL · MongoDB · Prisma · Drizzle · Redis · Python · OpenAI · Vercel · Docker · GitHub Actions
 
 **Security:** Slither · Solhint · 100% Foundry coverage targets · CI gates on build, test, coverage, gas snapshots
 

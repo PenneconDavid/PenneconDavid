@@ -1,0 +1,33 @@
+CONNECTION GUIDE — GitHub Profile (PenneconDavid)
+Last updated: August 18, 2026
+
+This repo is the GitHub profile README (https://github.com/PenneconDavid).
+Nothing runs locally except the screenshot capture script.
+
+─── LIVE SITES (README + screenshots) ─────────────────────
+  Waxmark ............. https://waxmark.app/
+                        Product for private repo github.com/PenneconDavid/signet
+  Wedding site ........ https://ashbyanddavid.com/
+                        Product for private repo github.com/PenneconDavid/our-wedding
+  OddScout ............ https://odd-scout.vercel.app/
+  Davey Rockets ....... https://daveyrockets.me/
+  BallKnower .......... https://ballknower.vercel.app/
+  DAO Gas Paymaster ... https://dao-gas-reimbursement-paymaster.vercel.app/
+  Hedera Notary Log ... https://hedera-notary-log.vercel.app/
+  Solana NFT Forge .... https://solana-nft-forge.vercel.app/
+  DishSwap ............ https://dishswap.vercel.app/
+  Bulldog NFT Forge ... https://bulldog-nft.vercel.app/
+
+─── SCREENSHOT CAPTURE ────────────────────────────────────
+  Script:   scripts/capture-screenshots.js
+  Command:  npm run capture -- waxmark wedding
+            (from scripts/; omit names to recapture all + hero banner)
+  Output:   assets/<name>.png  (1280x720 viewport)
+  Runtime:  Playwright Chromium (scripts/node_modules; browsers in user cache)
+
+─── PROFILE / SOCIAL ──────────────────────────────────────
+  GitHub profile ...... https://github.com/PenneconDavid
+  Portfolio ........... https://daveyrockets.me
+  LinkedIn ............ https://www.linkedin.com/in/davidseibold/
+  X ................... https://twitter.com/Davey_Rockets
+  Email ............... mailto:d.seibold@icloud.com

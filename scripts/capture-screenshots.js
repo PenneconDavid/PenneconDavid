@@ -6,6 +6,8 @@ const outDir = path.resolve(__dirname, "../assets");
 const bannerSvg = path.resolve(outDir, "hero-banner.svg");
 
 const targets = [
+  { name: "waxmark", url: "https://waxmark.app/", wait: 4000 },
+  { name: "wedding", url: "https://ashbyanddavid.com/", wait: 4000 },
   { name: "ballknower", url: "https://ballknower.vercel.app/", wait: 4000 },
   { name: "oddscout", url: "https://odd-scout.vercel.app/", wait: 4000 },
   { name: "portfolio", url: "https://daveyrockets.me", wait: 3000 },
@@ -44,12 +46,20 @@ async function renderBanner(page) {
 
 (async () => {
   fs.mkdirSync(outDir, { recursive: true });
+  const filter = process.argv.slice(2);
+  const selected = filter.length
+    ? targets.filter((target) => filter.includes(target.name))
+    : targets;
+  const captureBanner = filter.length === 0 || filter.includes("banner");
+
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage({ viewport: { width: 1280, height: 720 } });
 
-  await renderBanner(page);
+  if (captureBanner) {
+    await renderBanner(page);
+  }
 
-  for (const target of targets) {
+  for (const target of selected) {
     try {
       console.log(`Capturing ${target.name} -> ${target.url}`);
       await page.setViewportSize({ width: 1280, height: 720 });
