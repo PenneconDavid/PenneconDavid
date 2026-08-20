@@ -1,76 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Davey Rockets - Full-Stack DeFi Engineer</title>
-  <desc id="desc">Finance background applied to secure onchain products. San Diego.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Davey Rockets - Full-Stack Engineer</title>
+  <desc id="desc">End-to-end products from schema to UI. San Diego.</desc>
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1E1E1E"/>
-      <stop offset="55%" stop-color="#282828"/>
-      <stop offset="100%" stop-color="#1a1030"/>
+    <linearGradient id="orbitBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#121212"/>
+      <stop offset="70%" stop-color="#17141F"/>
+      <stop offset="100%" stop-color="#1A1030"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="orbitAccent" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#EFBD19"/>
       <stop offset="100%" stop-color="#8000FF"/>
     </linearGradient>
-    <radialGradient id="glow" cx="78%" cy="28%" r="45%">
-      <stop offset="0%" stop-color="#8000FF" stop-opacity="0.35"/>
+    <radialGradient id="orbitGlow" cx="18%" cy="48%" r="38%">
+      <stop offset="0%" stop-color="#EFBD19" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#EFBD19" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbitGlowR" cx="88%" cy="20%" r="42%">
+      <stop offset="0%" stop-color="#8000FF" stop-opacity="0.28"/>
       <stop offset="100%" stop-color="#8000FF" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
-  <rect width="1200" height="320" fill="url(#bg)"/>
-  <rect width="1200" height="320" fill="url(#glow)"/>
-  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+  <rect width="1280" height="360" fill="url(#orbitBg)"/>
+  <rect width="1280" height="360" fill="url(#orbitGlow)"/>
+  <rect width="1280" height="360" fill="url(#orbitGlowR)"/>
+  <rect x="0" y="0" width="1280" height="4" fill="url(#orbitAccent)"/>
 
-  <g opacity="0.08" stroke="#F3EACC" stroke-width="1">
-    <path d="M0 80H1200M0 160H1200M0 240H1200M150 0V320M300 0V320M450 0V320M600 0V320M750 0V320M900 0V320M1050 0V320"/>
+  <g transform="translate(118 178)" fill="none" stroke-linecap="round">
+    <ellipse cx="0" cy="0" rx="118" ry="46" stroke="#EFBD19" stroke-width="1.5" opacity="0.55" transform="rotate(-18)"/>
+    <ellipse cx="0" cy="0" rx="150" ry="62" stroke="#8000FF" stroke-width="1.5" opacity="0.45" transform="rotate(22)"/>
+    <ellipse cx="0" cy="0" rx="86" ry="86" stroke="#F3EACC" stroke-width="1" opacity="0.12"/>
+    <circle cx="108" cy="-38" r="4" fill="#EFBD19" stroke="none"/>
+    <circle cx="-92" cy="48" r="4" fill="#8000FF" stroke="none"/>
   </g>
 
-  <g transform="translate(72 78)">
-    <path d="M48 8c18 22 28 48 28 78 0 8-1 16-3 24l-18-10-18 10c-2-8-3-16-3-24 0-30 10-56 28-78z" fill="#EFBD19"/>
-    <circle cx="48" cy="62" r="10" fill="#1E1E1E" stroke="#8000FF" stroke-width="3"/>
-    <path d="M30 118l18-12 18 12-8 18H38l-8-18z" fill="#8000FF"/>
-    <path d="M18 92c-8 10-12 22-12 34 0 2 8 4 12 2 4-10 8-18 0-36zM78 92c8 10 12 22 12 34 0 2-8 4-12 2-4-10-8-18 0-36z" fill="#EFBD19" opacity="0.85"/>
+  <g transform="translate(86 118)">
+    <path d="M32 0c16 20 24 44 24 70 0 8-1 14-3 22l-16-9-16 9c-2-8-3-14-3-22 0-26 8-50 24-70z" fill="#EFBD19"/>
+    <circle cx="32" cy="48" r="8" fill="#121212" stroke="#8000FF" stroke-width="3"/>
+    <path d="M16 100l16-10 16 10-7 16H23l-7-16z" fill="#8000FF"/>
+    <path d="M8 78c-7 9-10 20-10 30 0 2 7 3 11 1 3-9 6-16 0-31zM56 78c7 9 10 20 10 30 0 2-7 3-11 1-3-9-6-16 0-31z" fill="#EFBD19" opacity="0.9"/>
   </g>
 
-  <text x="190" y="108" fill="#F3EACC" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="42" font-weight="700">Davey Rockets</text>
-  <text x="190" y="148" fill="#EFBD19" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="24" font-weight="600">Full-Stack DeFi Engineer</text>
-  <text x="190" y="184" fill="#CFC7B8" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="18">Finance background to secure onchain products - San Diego, CA</text>
-  <text x="190" y="214" fill="#9CA3AF" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="16">Smart contracts - Full-stack dApps - Risk controls - Test-driven shipping</text>
+  <text x="280" y="118" fill="#F3EACC" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="48" font-weight="700">Davey Rockets</text>
+  <text x="280" y="160" fill="#EFBD19" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="22" font-weight="600">Full-Stack Engineer</text>
+  <text x="280" y="196" fill="#B7AFA3" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="16">End-to-end products — from schema to UI. San Diego, CA</text>
 
   <g font-family="Segoe UI, Inter, system-ui, sans-serif">
-    <g transform="translate(190 236)">
-      <rect width="150" height="54" rx="12" fill="#111111" stroke="#EFBD19" stroke-opacity="0.45"/>
-      <text x="16" y="22" fill="#EFBD19" font-size="13" font-weight="700">8 LIVE DEMOS</text>
-      <text x="16" y="42" fill="#F3EACC" font-size="12">Shipped and deployed</text>
+    <g transform="translate(280 232)">
+      <rect width="168" height="72" rx="14" fill="#111111" stroke="#EFBD19" stroke-opacity="0.4"/>
+      <text x="18" y="30" fill="#EFBD19" font-size="18" font-weight="700">8</text>
+      <text x="42" y="30" fill="#F3EACC" font-size="14" font-weight="600">live demos</text>
+      <text x="18" y="52" fill="#9CA3AF" font-size="12">Shipped and deployed</text>
     </g>
-    <g transform="translate(356 236)">
-      <rect width="150" height="54" rx="12" fill="#111111" stroke="#8000FF" stroke-opacity="0.55"/>
-      <text x="16" y="22" fill="#C084FC" font-size="13" font-weight="700">3 CHAINS</text>
-      <text x="16" y="42" fill="#F3EACC" font-size="12">ETH - Solana - Hedera</text>
+    <g transform="translate(464 232)">
+      <rect width="188" height="72" rx="14" fill="#111111" stroke="#8000FF" stroke-opacity="0.5"/>
+      <text x="18" y="30" fill="#C084FC" font-size="14" font-weight="700">Next.js + Node</text>
+      <text x="18" y="52" fill="#9CA3AF" font-size="12">TypeScript end to end</text>
     </g>
-    <g transform="translate(522 236)">
-      <rect width="170" height="54" rx="12" fill="#111111" stroke="#EFBD19" stroke-opacity="0.45"/>
-      <text x="16" y="22" fill="#EFBD19" font-size="13" font-weight="700">ERC-4337 / AA</text>
-      <text x="16" y="42" fill="#F3EACC" font-size="12">Paymasters and budgets</text>
+    <g transform="translate(668 232)">
+      <rect width="188" height="72" rx="14" fill="#111111" stroke="#EFBD19" stroke-opacity="0.4"/>
+      <text x="18" y="30" fill="#EFBD19" font-size="14" font-weight="700">Postgres + auth</text>
+      <text x="18" y="52" fill="#9CA3AF" font-size="12">APIs, Prisma, JWT</text>
     </g>
-    <g transform="translate(708 236)">
-      <rect width="170" height="54" rx="12" fill="#111111" stroke="#8000FF" stroke-opacity="0.55"/>
-      <text x="16" y="22" fill="#C084FC" font-size="13" font-weight="700">FOUNDRY + CI</text>
-      <text x="16" y="42" fill="#F3EACC" font-size="12">Fuzz, coverage, Slither</text>
+    <g transform="translate(872 232)">
+      <rect width="188" height="72" rx="14" fill="#111111" stroke="#8000FF" stroke-opacity="0.5"/>
+      <text x="18" y="30" fill="#C084FC" font-size="14" font-weight="700">AI in the loop</text>
+      <text x="18" y="52" fill="#9CA3AF" font-size="12">Reviewed, tested, owned</text>
     </g>
   </g>
 
-  <g transform="translate(930 92)">
-    <rect width="220" height="132" rx="18" fill="#111111" stroke="url(#accent)" stroke-width="2"/>
-    <text x="24" y="42" fill="#F3EACC" font-size="15" font-weight="700">Portfolio</text>
-    <text x="24" y="68" fill="#EFBD19" font-size="22" font-weight="700">daveyrockets.me</text>
-    <text x="24" y="96" fill="#9CA3AF" font-size="13">Resume - blog - live work</text>
-    <text x="24" y="118" fill="#C084FC" font-size="13">daveyrockets.eth</text>
-  </g>
-
-  <path d="M900 250 C980 210 1040 210 1110 250" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="900" cy="250" r="7" fill="#EFBD19"/>
-  <circle cx="1110" cy="250" r="7" fill="#8000FF"/>
-  <text x="872" y="278" fill="#9CA3AF" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="12">M and A rigor</text>
-  <text x="1078" y="278" fill="#9CA3AF" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="12">DeFi design</text>
+  <text x="1216" y="52" fill="#C084FC" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="14" font-weight="600" text-anchor="end">daveyrockets.me</text>
 </svg>

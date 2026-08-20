@@ -31,7 +31,7 @@ const targets = [
 
 async function renderBanner(page) {
   const svgMarkup = fs.readFileSync(bannerSvg, "utf8");
-  await page.setViewportSize({ width: 1200, height: 320 });
+  await page.setViewportSize({ width: 1280, height: 360 });
   await page.setContent(
     `<!DOCTYPE html><html><body style="margin:0;background:#111;">${svgMarkup}</body></html>`,
     { waitUntil: "load" }
@@ -52,7 +52,7 @@ async function renderBanner(page) {
     : targets;
   const captureBanner = filter.length === 0 || filter.includes("banner");
 
-  const browser = await chromium.launch({ headless: true });
+  const browser = await chromium.launch({ headless: true, channel: "chrome" });
   const page = await browser.newPage({ viewport: { width: 1280, height: 720 } });
 
   if (captureBanner) {

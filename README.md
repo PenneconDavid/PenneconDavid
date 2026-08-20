@@ -1,10 +1,10 @@
-<img src="./assets/hero-banner.png" alt="Davey Rockets — Full-Stack DeFi Engineer" width="100%" />
+<img src="./assets/hero-banner.png" alt="Davey Rockets — Full-Stack Engineer" width="100%" />
 
-# David Seibold · Full-Stack DeFi Engineer
+# David Seibold · Full-Stack Engineer
 
-Ten years in M&A taught me how to model risk, cap exposure, and stress-test assumptions. I apply that same discipline to smart contracts, paymasters, and full-stack dApps — with Foundry coverage, Slither gates, and live demos you can click through.
+Ten years in M&A taught me how to model risk, cap exposure, and stress-test assumptions. I apply that same discipline to full-stack products — TypeScript, Next.js, APIs, and data — with tests, CI, and live demos you can click through. AI speeds up scaffolding; I review, test, and own every line shipped.
 
-**Portfolio → [daveyrockets.me](https://daveyrockets.me)** · Resume & blog · **ENS → daveyrockets.eth**
+**Portfolio → [daveyrockets.me](https://daveyrockets.me)** · Resume & blog
 
 ---
 
@@ -54,15 +54,13 @@ Full background, metrics, and resume → **[daveyrockets.me](https://daveyrocket
 
 ## Stack
 
-**Blockchain:** Solidity · Foundry · OpenZeppelin · ERC-4337 · Rust · Anchor · Solana · Chainlink · IPFS
-
-**Full-stack:** TypeScript · React · Next.js · Node.js · Express · Tailwind · Auth.js · wagmi · viem
+**Full-stack:** TypeScript · React · Next.js · Node.js · Express · Tailwind · Auth.js
 
 **Data & infra:** PostgreSQL · MongoDB · Prisma · Drizzle · Redis · Python · OpenAI · Vercel · Docker · GitHub Actions
 
-**Security:** Slither · Solhint · 100% Foundry coverage targets · CI gates on build, test, coverage, gas snapshots
+**Blockchain:** Solidity · Foundry · OpenZeppelin · ERC-4337 · Rust · Anchor · Solana · Chainlink · IPFS · wagmi · viem
 
-AI accelerates scaffolding and docs; I review, test, and own every line shipped.
+**Security:** CI gates on build, test, and coverage · Slither · Solhint · Foundry when the work is onchain
 
 ---
 
@@ -73,7 +71,7 @@ AI accelerates scaffolding and docs; I review, test, and own every line shipped.
 [![X](https://img.shields.io/badge/X-@Davey__Rockets-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Davey_Rockets)
 [![Email](https://img.shields.io/badge/Email-d.seibold@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.seibold@icloud.com)
 
-Smart Contract Engineer · DeFi Protocol Engineer · Web3 Full-Stack · Remote-friendly · Full-time or contract
+Full-Stack Engineer · Remote-friendly · Full-time or contract
 
 <details>
   <summary><strong>Activity (self-hosted, updated daily)</strong></summary>

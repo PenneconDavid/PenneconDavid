@@ -1,5 +1,5 @@
 CONNECTION GUIDE — GitHub Profile (PenneconDavid)
-Last updated: August 18, 2026
+Last updated: August 20, 2026
 
 This repo is the GitHub profile README (https://github.com/PenneconDavid).
 Nothing runs locally except the screenshot capture script.
@@ -23,7 +23,12 @@ Nothing runs locally except the screenshot capture script.
   Command:  npm run capture -- waxmark wedding
             (from scripts/; omit names to recapture all + hero banner)
   Output:   assets/<name>.png  (1280x720 viewport)
-  Runtime:  Playwright Chromium (scripts/node_modules; browsers in user cache)
+  Runtime:  Playwright + installed Google Chrome (channel: "chrome")
+
+─── PROFILE BANNER ────────────────────────────────────────
+  Live:     Orbit — assets/hero-banner.svg → assets/hero-banner.png (1280x360)
+  Render:   node scripts/render-banners.js
+            (rasterizes hero-banner.svg at 2x; also any local banner-*.svg)
 
 ─── PROFILE / SOCIAL ──────────────────────────────────────
   GitHub profile ...... https://github.com/PenneconDavid
