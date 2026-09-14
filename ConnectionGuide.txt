@@ -21,9 +21,12 @@ Nothing runs locally except the screenshot capture script.
 ─── SCREENSHOT CAPTURE ────────────────────────────────────
   Script:   scripts/capture-screenshots.js
   Command:  npm run capture -- waxmark wedding
+            npm run capture -- oddscout
             (from scripts/; omit names to recapture all + hero banner)
   Output:   assets/<name>.png  (1280x720 viewport)
   Runtime:  Playwright + installed Google Chrome (channel: "chrome")
+  Notes:    Per-target scroll/wait in capture-screenshots.js (OddScout scrolls
+            to "Oracle Contract Features" so the demo shows product UI)
 
 ─── PROFILE BANNER ────────────────────────────────────────
   Live:     Orbit — assets/hero-banner.svg → assets/hero-banner.png (1280x360)

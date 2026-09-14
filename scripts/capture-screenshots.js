@@ -9,7 +9,12 @@ const targets = [
   { name: "waxmark", url: "https://waxmark.app/", wait: 4000 },
   { name: "wedding", url: "https://ashbyanddavid.com/", wait: 4000 },
   { name: "ballknower", url: "https://ballknower.vercel.app/", wait: 4000 },
-  { name: "oddscout", url: "https://odd-scout.vercel.app/", wait: 4000 },
+  {
+    name: "oddscout",
+    url: "https://odd-scout.vercel.app/",
+    wait: 3000,
+    scrollTo: "Oracle Contract Features",
+  },
   { name: "portfolio", url: "https://daveyrockets.me", wait: 3000 },
   {
     name: "dao-gas",
@@ -28,6 +33,25 @@ const targets = [
   },
   { name: "dishswap", url: "https://dishswap.vercel.app/", wait: 3000 },
 ];
+
+async function preparePage(page, target) {
+  await page.waitForTimeout(target.wait ?? 3000);
+
+  if (target.scrollTo) {
+    const heading = page.getByRole("heading", { name: target.scrollTo }).first();
+    if (await heading.count()) {
+      await heading.scrollIntoViewIfNeeded();
+      await page.waitForTimeout(500);
+      return;
+    }
+    console.warn(`Scroll target not found for ${target.name}: ${target.scrollTo}`);
+  }
+
+  if (target.scrollY) {
+    await page.evaluate((y) => window.scrollTo(0, y), target.scrollY);
+    await page.waitForTimeout(500);
+  }
+}
 
 async function renderBanner(page) {
   const svgMarkup = fs.readFileSync(bannerSvg, "utf8");
@@ -64,7 +88,7 @@ async function renderBanner(page) {
       console.log(`Capturing ${target.name} -> ${target.url}`);
       await page.setViewportSize({ width: 1280, height: 720 });
       await page.goto(target.url, { waitUntil: "networkidle", timeout: 60000 });
-      await page.waitForTimeout(target.wait);
+      await preparePage(page, target);
       await page.screenshot({
         path: path.join(outDir, `${target.name}.png`),
         fullPage: false,
