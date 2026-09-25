@@ -2,7 +2,7 @@
 
 # David Seibold · Full-Stack Engineer
 
-Ten years in M&A taught me how to model risk, cap exposure, and stress-test assumptions. I apply that same discipline to full-stack products — TypeScript, Next.js, APIs, and data — with tests, CI, and live demos you can click through. AI speeds up scaffolding; I review, test, and own every line shipped.
+Eleven years in healthcare M&A taught me how to model risk, cap exposure, and stress-test assumptions. I apply that same discipline to full-stack products — TypeScript, Next.js, APIs, and data — with tests, CI, and live demos you can click through. AI speeds up scaffolding; I review, test, and own every line shipped.
 
 **Portfolio → [daveyrockets.me](https://daveyrockets.me)** · Resume & blog
 
@@ -29,7 +29,7 @@ Ten years in M&A taught me how to model risk, cap exposure, and stress-test assu
   | | Project | Notes |
   |:---:|:---|:---|
   | <a href="https://ballknower.vercel.app/"><img src="./assets/ballknower.png" alt="BallKnower demo" width="420"/></a> | **[BallKnower](https://ballknower.vercel.app/)** *(private repo)* | Fantasy baseball assistant with pgvector-backed RAG, streaming answers, and cited MLB insights |
-  | <a href="https://dao-gas-reimbursement-paymaster.vercel.app/"><img src="./assets/dao-gas.png" alt="DAO Gas Paymaster demo" width="420"/></a> | **[DAO Gas Paymaster](https://github.com/PenneconDavid/DAO-Gas-Reimbursement-Paymaster)** | Budget controls inspired by financial modeling — allowlisted smart accounts, monthly caps, global safety limits |
+  | <a href="https://dao-gas.vercel.app/"><img src="./assets/dao-gas.png" alt="DAO Gas Paymaster demo" width="420"/></a> | **[DAO Gas Paymaster](https://github.com/PenneconDavid/DAO-Gas-Reimbursement-Paymaster)** | Budget controls inspired by financial modeling — allowlisted smart accounts, monthly caps, global safety limits |
   | <a href="https://hedera-notary-log.vercel.app/"><img src="./assets/hedera-notary.png" alt="Hedera Notary Log demo" width="420"/></a> | **[Hedera Notary Log](https://github.com/PenneconDavid/Hedera-Notary-Log)** | Local document hashing + HCS anchoring for verifiable timestamps |
   | <a href="https://solana-nft-forge.vercel.app/"><img src="./assets/solana-forge.png" alt="Solana NFT Forge demo" width="420"/></a> | **[Solana NFT Forge](https://github.com/PenneconDavid/Solana-NFT-Forge-with-Anchor)** | Constraint-based asset forging with Anchor on Solana devnet |
   | <a href="https://dishswap.vercel.app/"><img src="./assets/dishswap.png" alt="DishSwap demo" width="420"/></a> | **[DishSwap](https://github.com/PenneconDavid/DishSwap)** | Social recipe app with auth, reactions, and polished UI |
@@ -39,14 +39,14 @@ Ten years in M&A taught me how to model risk, cap exposure, and stress-test assu
 
 ---
 
-## Finance → DeFi
+## Finance → Engineering
 
-| M&A discipline | Onchain application |
+| M&A discipline | Where it shows up in my code |
 |:---|:---|
-| Budget caps & variance analysis | Paymaster monthly budgets, global safety caps |
-| Due diligence checklists | Foundry fuzz/invariant suites + Slither on PRs |
-| Valuation & KPI modeling | Oracle-driven risk toggles, vault-style controls |
-| Transaction lifecycle management | UserOp flows, receipt minting, audit trails |
+| Due diligence checklists | Waxmark scans every submission for prompt injection, exfiltration sinks, and leaked secrets before it publishes |
+| Transaction lifecycle management | Invite-code RSVP, household, and admin workflows with audit trails; UserOp flows and receipt minting onchain |
+| Valuation & KPI modeling | Metrics-first data models and dashboards; oracle-driven risk toggles when the work is onchain |
+| Budget caps & variance analysis | Paymaster monthly budgets and global safety caps |
 
 Full background, metrics, and resume → **[daveyrockets.me](https://daveyrockets.me)**
 
@@ -68,7 +68,7 @@ Full background, metrics, and resume → **[daveyrockets.me](https://daveyrocket
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-daveyrockets.me-EFBD19?style=for-the-badge&logo=googlechrome&logoColor=black)](https://daveyrockets.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidseibold/)
-[![X](https://img.shields.io/badge/X-@Davey__Rockets-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Davey_Rockets)
+[![X](https://img.shields.io/badge/X-@Davey__Rockets-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Davey_Rockets)
 [![Email](https://img.shields.io/badge/Email-d.seibold@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.seibold@icloud.com)
 
 Full-Stack Engineer · Remote-friendly · Full-time or contract
