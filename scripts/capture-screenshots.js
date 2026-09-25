@@ -18,7 +18,7 @@ const targets = [
   { name: "portfolio", url: "https://daveyrockets.me", wait: 3000 },
   {
     name: "dao-gas",
-    url: "https://dao-gas-reimbursement-paymaster.vercel.app/",
+    url: "https://dao-gas.vercel.app/",
     wait: 3000,
   },
   {

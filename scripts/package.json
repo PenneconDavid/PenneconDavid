@@ -4,12 +4,12 @@
   "main": "capture-screenshots.js",
   "scripts": {
     "capture": "node capture-screenshots.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "banners": "node render-banners.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "David Seibold",
   "license": "ISC",
-  "description": "",
+  "description": "Playwright capture of project screenshots and the hero banner for the profile README",
   "dependencies": {
     "playwright": "^1.62.1"
   }
