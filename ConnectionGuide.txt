@@ -1,5 +1,5 @@
 CONNECTION GUIDE — GitHub Profile (PenneconDavid)
-Last updated: August 20, 2026
+Last updated: November 19, 2026
 
 This repo is the GitHub profile README (https://github.com/PenneconDavid).
 Nothing runs locally except the screenshot capture script.
@@ -7,12 +7,14 @@ Nothing runs locally except the screenshot capture script.
 ─── LIVE SITES (README + screenshots) ─────────────────────
   Waxmark ............. https://waxmark.app/
                         Product for private repo github.com/PenneconDavid/signet
+  Headliner ........... https://headliner-phi.vercel.app/
+                        Product for private repo github.com/PenneconDavid/headliner
   Wedding site ........ https://ashbyanddavid.com/
                         Product for private repo github.com/PenneconDavid/our-wedding
   OddScout ............ https://odd-scout.vercel.app/
   Davey Rockets ....... https://daveyrockets.me/
   BallKnower .......... https://ballknower.vercel.app/
-  DAO Gas Paymaster ... https://dao-gas-reimbursement-paymaster.vercel.app/
+  DAO Gas Paymaster ... https://dao-gas.vercel.app/
   Hedera Notary Log ... https://hedera-notary-log.vercel.app/
   Solana NFT Forge .... https://solana-nft-forge.vercel.app/
   DishSwap ............ https://dishswap.vercel.app/

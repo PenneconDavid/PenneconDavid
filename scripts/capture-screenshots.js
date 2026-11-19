@@ -7,6 +7,7 @@ const bannerSvg = path.resolve(outDir, "hero-banner.svg");
 
 const targets = [
   { name: "waxmark", url: "https://waxmark.app/", wait: 4000 },
+  { name: "headliner", url: "https://headliner-phi.vercel.app/", wait: 4000 },
   { name: "wedding", url: "https://ashbyanddavid.com/", wait: 4000 },
   { name: "ballknower", url: "https://ballknower.vercel.app/", wait: 4000 },
   {
