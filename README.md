@@ -10,7 +10,9 @@ Eleven years in healthcare M&A taught me how to model risk, cap exposure, and st
 
 ## Building Now
 
-**[Waxmark](https://waxmark.app)** is live — a sealed catalog of Cursor rules, agent instructions, skills, and prompts. Every public file is scanned before it reaches an agent.
+**[Headliner](https://headliner-phi.vercel.app/)** is live — draft-once fantasy sports for NFL, NBA, and MLB where public attention scores alongside the box score. No lineups, no waivers, no trades.
+
+**[Waxmark](https://waxmark.app)** keeps growing — a sealed catalog of Cursor rules, agent instructions, skills, and prompts. Every public file is scanned before it reaches an agent.
 
 ---
 
@@ -19,6 +21,7 @@ Eleven years in healthcare M&A taught me how to model risk, cap exposure, and st
 | | Project | What it proves |
 |:---:|:---|:---|
 | <a href="https://waxmark.app/"><img src="./assets/waxmark.png" alt="Waxmark demo" width="420"/></a> | **[Waxmark](https://waxmark.app)** *(private repo)* | Trusted registry for AI instructions — Cursor rules, skills, and prompts scanned for injection, exfiltration, and secrets before they reach an agent |
+| <a href="https://headliner-phi.vercel.app/"><img src="./assets/headliner.png" alt="Headliner landing page" width="420"/></a> | **[Headliner](https://headliner-phi.vercel.app/)** *(private repo)* | Season-long fantasy game shipped end to end — pure scoring engine, slow and live drafts, bot teams, replay leagues, and nightly scoring jobs on GitHub Actions |
 | <a href="https://ashbyanddavid.com/"><img src="./assets/wedding.png" alt="Ashby & David wedding site" width="420"/></a> | **[Ashby & David](https://ashbyanddavid.com)** *(private repo)* | Custom wedding site with invite-code RSVP, household management, CMS, and a private admin portal |
 | <a href="https://odd-scout.vercel.app/"><img src="./assets/oddscout.png" alt="OddScout demo" width="420"/></a> | **[OddScout](https://odd-scout.vercel.app/)** *(private repo)* | Sportsbook vs Polymarket arbitrage deltas with automated on-chain recording via Chainlink |
 | <a href="https://daveyrockets.me/"><img src="./assets/portfolio.png" alt="Davey Rockets portfolio" width="420"/></a> | **[Davey Rockets](https://daveyrockets.me)** | Full-stack portfolio — JWT auth, CMS, blog, responsive UI |
@@ -34,6 +37,7 @@ Eleven years in healthcare M&A taught me how to model risk, cap exposure, and st
   | <a href="https://solana-nft-forge.vercel.app/"><img src="./assets/solana-forge.png" alt="Solana NFT Forge demo" width="420"/></a> | **[Solana NFT Forge](https://github.com/PenneconDavid/Solana-NFT-Forge-with-Anchor)** | Constraint-based asset forging with Anchor on Solana devnet |
   | <a href="https://dishswap.vercel.app/"><img src="./assets/dishswap.png" alt="DishSwap demo" width="420"/></a> | **[DishSwap](https://github.com/PenneconDavid/DishSwap)** | Social recipe app with auth, reactions, and polished UI |
   | | **Bulldog NFT Forge** *(private)* · [Live demo](https://bulldog-nft.vercel.app/) | ERC-1155 mint / forge / burn lifecycle on Polygon Amoy |
+  | | **[Fun Corners](https://github.com/PenneconDavid/fun-corners)** | Windows hot-corners utility in Python — multi-monitor map, safe preview mode, tray app, portable exe and installer |
 
 </details>
 
@@ -58,6 +62,8 @@ Full background, metrics, and resume → **[daveyrockets.me](https://daveyrocket
 
 **Data & infra:** PostgreSQL · MongoDB · Prisma · Drizzle · Redis · Python · OpenAI · Vercel · Docker · GitHub Actions
 
+**AI:** Claude Code · OpenAI · RAG · pgvector · shared agent rules and skills across repos
+
 **Blockchain:** Solidity · Foundry · OpenZeppelin · ERC-4337 · Rust · Anchor · Solana · Chainlink · IPFS · wagmi · viem
 
 **Security:** CI gates on build, test, and coverage · Slither · Solhint · Foundry when the work is onchain
@@ -72,11 +78,3 @@ Full background, metrics, and resume → **[daveyrockets.me](https://daveyrocket
 [![Email](https://img.shields.io/badge/Email-d.seibold@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.seibold@icloud.com)
 
 Full-Stack Engineer · Remote-friendly · Full-time or contract
-
-<details>
-  <summary><strong>Activity (self-hosted, updated daily)</strong></summary>
-
-  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="GitHub contribution calendar" />
-  <img src="./metrics.plugin.languages.details.svg" alt="GitHub language breakdown" />
-
-</details>
